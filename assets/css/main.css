@@ -210,10 +210,23 @@ a:after {
 	color: white;
 }
 
-#arbitrage-infos {
+#arbitrage {
 	background: #315C50;
 	padding-top: 60px;
 	color: white;
+  padding-bottom: 30px;
+}
+
+#arbitrage h5, h4, p {
+	color: white;
+  /*font-weight: 200;*/
+}
+
+#arbitrage i {
+	color: white;
+	font-size: 20px;
+	padding-right: 8px;
+	vertical-align: middle;
 }
 
 #footwrap {
