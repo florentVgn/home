@@ -184,10 +184,12 @@ a:after {
 	background: #315C50;
 	padding-top: 60px;
 	color: white;
+  padding-bottom: 30px;
 }
 
 #intro h5, h4, p {
 	color: white;
+  /*font-weight: 200;*/
 }
 
 #intro i {
@@ -238,23 +240,27 @@ a:after {
 	color: #E0FF6C;
 }
 
-#liens-sociaux a {
+#liens a {
 	color: grey;
 }
 
 #retour-en-haut a{
-	color: grey;  
+	color: grey;
 	font-weight: bold:
 }
 
 #title-part {
 	background-color: #2f2f2f;
-} 
+}
 
 #title-part h1 {
 	color: #E0FF6C;
 	margin-top: 25px;
 	margin-bottom: 25px;
+}
+
+#projects img {
+  margin-bottom: 60px;
 }
 
 
